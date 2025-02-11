@@ -1,7 +1,6 @@
-[294] [ㅁㅇㄴㄻㄴㅇㄻ]. |  294.jpg       |  http://www.naver.com |  1   |  2  |  3  |  4  |  5  |  a  |  $$ \; \frac{▢㉠}{▢㉠}$$ |  294.mp3  |  "$$ \blacktriangleright $$", "$$ \frac{a}{b} $$", "$$ \frac{a}{b} = $$", "$$ \frac{a}{b} = a^2 $$"  |  294-o.jpg  |  295.jpg   |  296.jpg   |  297.jpg 
-[295] [ㅁㅇㄴㄻㄴㅇㄻ]. |  295.jpg       |  html |     |    |    |    |    |  a  |   $$ \fbox{$\frac{\textcolor{white}{a}}{s}$} $$ |    | "$$ \fbox{$\frac{\textcolor{white}{a}}{s}$} $$"  |  295-a.jpg
-[296] [ㅁㅇㄴㄻㄴㅇㄻ]. |  296.jpg       |  html |     |    |    |    |    |  a  |  $$ \; \rm{▢㉠㉡㉢㉣㉤}$$ |  296.mp3  |    |  296-a.jpg
-[297] [ㅁㅇㄴㄻㄴㅇㄻ]. |  297.jpg       |  html |     |    |    |    |    |  a  |  $$ \; \rm{▢㉠㉡㉢㉣㉤}$$ |     |    |  297-a.jpg   
+[1020] [유형쎈]. | 1020-0.jpg |  |    |    |    |    |    |  a  | $$ \; \rm{▢㉠㉡㉢㉣㉤}\blacktriangleright$$ |   |   | 2 | 1020-1.jpg | 1020-2.jpg | 1020-a.jpg   
+
+
 
 
 
